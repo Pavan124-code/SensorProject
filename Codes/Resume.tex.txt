@@ -1,0 +1,117 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{MADHULATHA BORRA} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91 8074598028 \\ Pulivendula,Andhra Pradesh} 
+\address{\href{mailto:borramadhulatha@gmail.com}{borramadhulatha@gmail.com} \\ \href{https://www.linkedin.com/in/madhulatha-borra-79a507280}{LinkedIn} 
+\\ \href{https://github.com/borramadhu/}
+{Github}}  %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+
+{Seeking a role that leverages my adaptive team skills and collaborative approach, where I can apply my innovative
+ mindset to projects as needed. Eager to contribute with my passion, curiosity, and digital thinking, while maintaining
+ agility and a keen eye for detail}
+
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Bachelor of Technology}, AP IIIT RGUKT RK VALLEY \hfill {2020 - 2024}\\
+Computer Science and Engineering : 8.9 GPA
+
+{\bf Pre University Course(PUC)}, AP IIIT RGUKT RK VALLEY \hfill {2018 - 2020}\\
+Aggregated with 8.69 GPA
+
+{\bf Secondary School Certificate(SSC)},SRI CHAITANYA TECHNO SCHOOL,GOSALA \hfill {2017 - 2018}\\
+Aggregated with 10  GPA
+
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{TECHNICAL SKILLS}
+\begin{itemize}
+  \item \textbf{Programming Languages:} JAVA
+
+  \item \textbf{Web Technologies:} HTML , CSS , JAVASCRIPT
+  
+  \item \textbf{Developer Tools:} GitHub, Eclipse
+
+   \item \textbf{Database:} SQL
+
+     \item \textbf{Operating System:} Linux , Windows
+
+  \item \textbf{Self Taught Courses:} Software Testing,Software Development Life Cycle, Microsoft Word, Excel, Power Point
+  
+\end{itemize}
+\end{rSection}
+\\
+ 
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{IMAGE PHOTOGRAPHY} {
+An online platform for convenient and customizable photo-shoot scheduling, simplifying the booking process for users.Proficiently utilized programming languages including HTML, CSS, JS, Bootstrap, PHP, and SQL in the project's development.
+
+\href{https://github.com/borramadhu/IMAGE-PHOTOGRAPHY}{(GitHub)}}
+
+\item \textbf{WHATSAPP CHAT ANALYZER} {WhatsAppChatAnalyzer project enables to analyze and visualize the what
+sapp chat data that is held between two persons or among groups in order to search the important data, links, emojis,
+ f
+ iles that were shared among people 
+
+\href{https://github.com/borramadhu/WHATSAPP-CHAT-ANALYZER}{(GitHub)}}
+
+
+\end{rSection} 
+
+
+\begin{rSection}{Achievements and Certifications} 
+\begin{itemize}
+    \item 	Certified by Code Alpha for Participating in Web Development Internship \href{https://drive.google.com/file/d/14mMitRzZq3n5H2UZ9cNlalaQ_bk4Vnga/view?usp=drivesdk}{Certification}
+    
+    \item	Certified by Kodnest for Java Full Stack Internship\href{https://drive.google.com/file/d/1SeRmXQKPfiX-mCr-fBJAPanE3JSYU19Q/view}{Certification}
+
+    \item	Certified as National Service Scheme (NSS)
+Volunteer \href{https://drive.google.com/file/d/189I9z-TLl-HpkpD3jzpHWvFlMdOnTrKZ/view}{Certification}
+
+\item	Certified as Helping Hands Organization(HHO) team lead
+
+
+
+
+
+\end{itemize}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
+
